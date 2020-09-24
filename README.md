@@ -1,2 +1,2 @@
 # rest-json-quickstart
- REST JSON Quickstart
+ REST JSON Quarkus Quickstart
